@@ -1,0 +1,351 @@
+{
+    "metadata": {
+        "exam_id": 12586,
+        "exam_name": "ภาษาไทย ป.1-ป.3 ข้อใดผิด",
+        "level_name": "ประถมต้น",
+        "subject_name": "ภาษาไทย",
+        "question_count": "20"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 150676,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ปากา</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ปากกา</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 150677,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ดินสอ</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ดินสอน</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 150678,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>เครื่องบิน</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>เครื่องบิลล์</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 150679,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ทะเล</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ทั้ลเล</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 150680,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>น่ารัก</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>นั้ลล้าก</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 150681,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ช่องปาก</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ช่องปาค</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 150682,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>นินทาน</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>นิทาน</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 150683,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>กระดาน</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>กระดาณ</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 150684,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>เว็บ</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>เว็ป</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 150685,
+            "question_text": "<p>ข้อใดผิด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ธูป</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ธูบ</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 150686,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ตู้เย็น</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ตู้เย๊น</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 150687,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>หนังสือ</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>หนังสึอ</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 13,
+            "question_id": 150688,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>หน้าต่าง</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>น่าต่าง</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 14,
+            "question_id": 150689,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>แว่นตา</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>แว้นตา</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 15,
+            "question_id": 150690,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ยางลป</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ยางลบ</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 16,
+            "question_id": 150691,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>น้ำ</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>นัม</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 17,
+            "question_id": 150692,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>นิ้วมือ</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>นิ่วมือ</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 18,
+            "question_id": 150693,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>บาบ</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>บาป</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 19,
+            "question_id": 150694,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>หัวใจ</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>หัวไจ</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 20,
+            "question_id": 150695,
+            "question_text": "<p>ข้อใดถูก</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ลูกศร</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ลูกศรณ์</p>",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "exam_id": 12585,
+        "exam_name": "สิ่งต่างๆ รอบตัวเด็ก อ.1-อ.3 สีอะไรเอ่ย?",
+        "level_name": "ปฐมวัย",
+        "subject_name": "สิ่งต่าง ๆ รอบตัวเด็ก",
+        "question_count": "5"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 150671,
+            "question_text": "<p><span style=\"color:#ffffff;background-color:#ff00ff;\">สีอะไรเอ่ย</span></p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ชมพู</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>เหลือง</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 150672,
+            "question_text": "<p><span style=\"background-color:#ff6600;\">สีอะไรเอ่ย</span></p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ส้ม</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>แดง</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 150673,
+            "question_text": "<p><span style=\"color:#ffffff;background-color:#00ff00;\">สีอะไรเอ่ย</span></p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>เขียว</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>เหลือง</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 150674,
+            "question_text": "<p><span style=\"color:#ffffff;background-color:#ff0000;\">สีอะไรเอ่ย</span></p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ดำ</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>แดง</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 150675,
+            "question_text": "<p><span style=\"color:#ffffff;background-color:#00ffff;\">สีอะไรเอ่ย</span></p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ฟ้า</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ชมพู</p>",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+2025-03-29 21:20:48,657 - INFO - Starting extraction for exam IDs 12585 to 12586
+2025-03-29 21:20:49,071 - INFO - Data extraction complete for exam_id 12585. Saved to 'data\output\12585_สิ่งต่างๆ รอบตัวเด็ก อ.1-อ.3 สีอะไรเอ่ย__ปฐมวัย_สิ่งต่าง ๆ รอบตัวเด็ก.json'.
+2025-03-29 21:20:49,993 - INFO - Data extraction complete for exam_id 12586. Saved to 'data\output\12586_ภาษาไทย ป.1-ป.3 ข้อใดผิด_ประถมต้น_ภาษาไทย.json'.
+2025-03-29 21:20:50,495 - INFO - Extraction complete. Successfully processed 2 exams. Failed: 0
