@@ -1,0 +1,551 @@
+{
+    "metadata": {
+        "exam_id": 53,
+        "exam_name": "ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 28",
+        "level_name": "ป.3",
+        "subject_name": "ภาษาไทย",
+        "question_count": "20"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 640,
+            "question_text": "ข้อใดคือคำคล้องจอง 1 พยางค์",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มี – มาก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ปาน – จาน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "น้อม – นิด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ปลา – ปู",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 641,
+            "question_text": "ข้อใดไม่ใช่คำคล้องจอง 2 พยางค์",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "หัวใจ – จัดการ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ยางลบ – พบกัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ดินสอ – กอไผ่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ปากกา – นาปรัง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 642,
+            "question_text": "คำในข้อใดมี 4 พยางค์",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ปฐมฤกษ์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "หัตถกรรม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สาธารณสุข",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "โรคาพยาธิ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 643,
+            "question_text": "คำใดเป็นคำควบไม่แท้",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ทลาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ทราย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "มณฑา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "มณโฑ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 644,
+            "question_text": "คำใดอ่านออกเสียงพยัญชนะเพียงตัวเดียว",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สรวง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ปลา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ขวาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "คลอง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 645,
+            "question_text": "คำใดต้องอ่านออกเสียงพยัญชนะทั้งสองพร้อมกัน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "บาตร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เตรียม",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เหนียว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เทโว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 646,
+            "question_text": "อ่านบทประพันธ์นี้แล้วตอบคำถาม\r\nข้อ 7 – 9\r\n\r\nจากบทกลอนที่อ่าน ขาดคำที่สะกดด้วยมาตราตัวสะกดใด\r\n    \r\nแสนเสียดายนันทาที่น่ารัก\r\nชะล่านักเลี่ยงออกนอกถนน\r\nมัวแต่เพลินปลาบปลื้มจนลืมตน\r\nถูกรถยนต์แล่นทับดับชีวา\r\nนิจจาเอ๋ยเคยเห็นทุกเย็นเช้า\r\nกลับเหลือแต่กรงเปล่าไม่เห็นหน้า\r\nเคยวิ่งเล่นด้วยกันทุกวันมา\r\nช่างทิ้งข้าเปลี่ยวเปล่าเศร้าใจเอย",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แม่กง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "แม่กม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แม่เกย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ครบทุกมาตราตัวสะกด",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 647,
+            "question_text": "แสนเสียดายนันทาที่น่ารัก\r\nชะล่านักเลี่ยงออกนอกถนน\r\nมัวแต่เพลินปลาบปลื้มจนลืมตน\r\nถูกรถยนต์แล่นทับดับชีวา\r\nนิจจาเอ๋ยเคยเห็นทุกเย็นเช้า\r\nกลับเหลือแต่กรงเปล่าไม่เห็นหน้า\r\nเคยวิ่งเล่นด้วยกันทุกวันมา\r\nช่างทิ้งข้าเปลี่ยวเปล่าเศร้าใจเอย\r\n \r\nบทกลอนที่อ่านมีคำที่สะกดด้วย “แม่กด” กี่คำ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "1  คำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "2  คำ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "3  คำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "4  คำ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 648,
+            "question_text": "“แสนเสียดายนันทาที่น่ารัก”\r\nกลอนวรรคนี้มีทั้งหมดกี่พยางค์",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "5  พยางค์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "6  พยางค์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "7  พยางค์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "8  พยางค์",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 649,
+            "question_text": "ข้อใดเขียนถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "โจ้ก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "คอมพิวเทอร์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สาคูใส้หมู",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ก๋วยเตี๋ยวราดหน้า",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 650,
+            "question_text": "ข้อใดเขียนถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "กะเพาะ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กระทิ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "กระจอก",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "กระเพลา",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 651,
+            "question_text": "ข้อใดเขียนถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "คมำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ขโมย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "คระน้า",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "นาฑี",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 13,
+            "question_id": 652,
+            "question_text": "ข้อใดเขียนถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เค้ก",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "โน๊ด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เชิ๋ต",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "คุ๊กกี๊",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 14,
+            "question_id": 653,
+            "question_text": "ข้อใดเขียนถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สถิต",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "จำนงค์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ดำรงค์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "สังวาลย์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 15,
+            "question_id": 654,
+            "question_text": "อ่านบทประพันธ์ต่อไปนี้ แล้วตอบคำถามข้อ 15 – 18 \r\n\r\nอักษรนำเป็นสัตว์สี่เท้า\r\nทุกค่ำเช้าเฝ้าบ้านไม่ห่างหาย\r\nอักษรนำอีกหนึ่งชอบทำลาย\r\nแต่ตะกายโดดแผลวเมื่อแมวมา\r\nอักษรนำอีกหนึ่งคือเรื่องรส\r\nต้องเหยาะหยดน้ำตาลเพิ่มรสา\r\nเกิดอาหารอักษรนำอันโอชา\r\nเร่งค้นหาคำใดไวไวเอย\r\nรุจี  ตันติอัศวโยธี\r\n\r\n“อักษรนำเป็นสัตว์สี่เท้า\r\nทุกค่ำเช้าเฝ้าบ้านไม่ห่างหาย”\r\nหมายถึงสัตว์ชนิดใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "หนู",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "หมู",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "หมา",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แมว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 16,
+            "question_id": 655,
+            "question_text": "“อักษรนำอีกหนึ่งชอบทำลาย\r\nแต่ตะกายโดดแผลวเมื่อแมวมา”\r\nหมายถึงสัตว์ชนิดใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "หนู",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ยุง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ปลวก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แมลงสาบ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 17,
+            "question_id": 656,
+            "question_text": "“อักษรนำอีกหนึ่งคือเรื่องรส\r\nต้องเหยาะหยดน้ำตาลเพิ่มรสา”\r\nหมายถึงรสอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "รสขม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "รสเค็ม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "รสหวาน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "รสเปรี้ยว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 18,
+            "question_id": 657,
+            "question_text": "“เกิดอาหารอักษรนำอันโอชา”\r\nหมายถึงอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ข้าว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ขนม",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "บะหมี่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ก๋วยเตี๋ยว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 19,
+            "question_id": 658,
+            "question_text": "แม่พูดว่า “อย่าทำอย่างนี้ อย่าทำอย่างนี้”\r\nควรใช้เครื่องหมายวรรคตอนใดแทนข้อความ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ยมก",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "จุลภาค",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "อัศเจรีย์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "อัญประกาศ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 20,
+            "question_id": 659,
+            "question_text": "ชม. อ่านว่าอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ชม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ชมเชย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ชั่วโมง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เชียงใหม่",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "metadata": {
+        "exam_id": 51,
+        "exam_name": "แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 3 ชุดที่ 1",
+        "level_name": "ป.3",
+        "subject_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "question_count": "10"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 620,
+            "question_text": "วัสดุในข้อใดเมื่อใช้มือฉีกให้ขาดได้ง่ายที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ผ้าไหม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ถุงพลาสติก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "กระดาษบันทึกข้อความ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "กระเป๋าที่ทำจากหนังสัตว์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 621,
+            "question_text": "วัสดุในข้อใดเมื่อได้รับความร้อนจะมีการเปลี่ยนแปลงรูปร่างแต่สมบัติของวัสดุยังเหมือนเดิม",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ไม้ขีดไฟ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ขนสัตว์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เทียน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ธูป",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 622,
+            "question_text": "วัสดุในข้อใดที่ใช้มือดัดให้โค้งงอได้ง่าย",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ลวด",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ดินสอ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ตะปู",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "กระบอกไม้ไผ่",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 623,
+            "question_text": "ข้อใดเป็นประโยชน์ที่ได้รับจากการเปลี่ยนแปลงของวัสดุ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ไม้ที่ทำบันไดผุ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "แก้วน้ำตกแตก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไอศกรีมแท่งละลาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "สูบลมล้อรถจักรยานที่แบน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 624,
+            "question_text": "ข้อใดเป็นอันตรายที่เกิดขึ้นจากการเปลี่ยนแปลงของวัสดุ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "การยืดของสปริง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "การเผาหญ้าที่อยู่ริมถนน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "การทำปุ๋ยหมัก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "การทำเครื่องปั้นดินเผา",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 625,
+            "question_text": "ข้อใดเป็นการนำพลาสติกมาใช้ประโยชน์ทางการแพทย์",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เข็มฉีดยา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "หลอดฉีดยา",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "มีดผ่าตัด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ผ้าพันแผล",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 626,
+            "question_text": "ข้อใดเป็นแรงที่เกิดขึ้นโดยธรรมชาติ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "คนออกแรงดึงกล่องให้เคลื่อนที่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ช้างออกแรงลากซุงให้เคลื่อนที่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แรงจากเครื่องจักรเครื่องยนต์ต่างๆ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แรงลมทำให้สิ่งของปลิวไปมา",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 627,
+            "question_text": "เพราะเหตุใดวัตถุทุกชนิดจึงตกลงสู่พื้นโลกไม่ล่องลอยขึ้นไปในอากาศ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เพราะมีแรงจากการทำของมนุษย์กระทำต่อวัตถุ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เพราะมีแรงจากการกระทำของวัตถุเอง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เพราะมีแรงดึงดูดของแม่เหล็กกระทำต่อวัตถุ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เพราะมีแรงดึงดูดของโลกกระทำต่อวัตถุ",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 628,
+            "question_text": "นักวิทยาศาสตร์คนใดเป็นผู้ค้นพบว่าโลกมีแรงดึงดูด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ไอสไตน์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กาลิเลโอ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "นิวตัน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "อริสโตเติล",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 629,
+            "question_text": "การกระทำในข้อใดที่ต้องออกแรงมากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เดินขึ้นบันได",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เดินลงบันได",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ยกกล่องไม้แล้วเดินขึ้นบันได",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ยกกล่องไม้แล้วเดินลงบันได",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

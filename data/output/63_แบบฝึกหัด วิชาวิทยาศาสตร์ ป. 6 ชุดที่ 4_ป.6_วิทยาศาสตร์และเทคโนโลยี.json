@@ -1,0 +1,281 @@
+{
+    "metadata": {
+        "exam_id": 63,
+        "exam_name": "แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 6 ชุดที่ 4",
+        "level_name": "ป.6",
+        "subject_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "question_count": "10"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 779,
+            "question_text": "สิ่งของในข้อใดมีแม่เหล็กไฟฟ้าประกอบ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ตู้เสื้อผ้า",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "โทรทัศน์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "กระดานดำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ชั้นวางวิทยุ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 780,
+            "question_text": "เมื่อมีการทดลองเกี่ยวกับไฟฟ้า ปรากฎว่ากระแสไฟฟ้าไม่ไหลผ่านแสดงว่ามีวัตถุใดเข้าไปเกี่ยวข้องกับการต่อวงจรไฟฟ้า",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แก้ว",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ทองแดง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เหล็ก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เงิน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 781,
+            "question_text": "ถ้าปลอกสายไฟชำรุด จะเกิดวงจรไฟฟ้าแบบใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "วงจรปิด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "วงจรเปิด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "วงจรตรง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "วงจรลัด",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 782,
+            "question_text": "วัสดุใดเป็นตัวนำไฟฟ้า",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ยางลบ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กุญแจ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไม้",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "พลาสติก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 783,
+            "question_text": "ข้อใดเป็นผู้ผลิต",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ต้นหญ้า",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ตั๊กแตน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไก่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "หนอน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 784,
+            "question_text": "โรคที่เกี่ยวกับปอดซึ่งมีสาเหตุมาจากการสูบบุหรี่มากคือข้อใด\r\n",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "โรควัณโรค",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "โรคปอดบวม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "โรคถุงลมโป่งพอง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "โรคเยื่อหุ้มปอดอักเสบ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 785,
+            "question_text": "การกินต่อกันเป็นทอด ๆ ที่มีความซับซ้อนไม่เป็นระเบียบหรือประกอบด้วยห่วงโซ่อาหารหลายๆ ห่วงโซ่อาหารมารวมกันเรียกว่าอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "วัฎจักอาหาร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เส้นใยอาหาร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สายใยอาหาร",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "การหมุนเวียนของอาหาร",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 786,
+            "question_text": "สารในข้อใดเมื่อทดสอบด้วยกระดาษลิตมัสแล้วทำให้กระดาษลิตมัสเปลี่ยนจากสีน้ำเงินเป็นสีแดง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "น้ำสบู่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "น้ำมะนาว",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "น้ำผงซักฟอก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "น้ำปูนใส",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 787,
+            "question_text": "ข้อใดเป็นการคายความร้อน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "น้ำแข็ง ----> น้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ไอน้ำ ----> หยดน้ำ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "น้ำ ----> ไอน้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ลูกเหม็น ----> ไอ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 788,
+            "question_text": "ปรากฎการณ์ข้างขึ้นข้างแรมเป็นปรากฎการณ์ที่เกี่ยวข้องกับสิ่งใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ดวงดาว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ดาวหาง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "อุกกาบาต",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ดวงจันทร์",
+                    "is_correct": true
+                }
+            ]
+        }
+    ]
+}

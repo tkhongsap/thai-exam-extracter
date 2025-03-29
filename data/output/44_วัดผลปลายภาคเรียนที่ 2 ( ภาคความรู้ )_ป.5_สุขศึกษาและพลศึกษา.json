@@ -1,0 +1,821 @@
+{
+    "metadata": {
+        "exam_id": 44,
+        "exam_name": "วัดผลปลายภาคเรียนที่ 2 ( ภาคความรู้ )",
+        "level_name": "ป.5",
+        "subject_name": "สุขศึกษาและพลศึกษา",
+        "question_count": "30"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 300,
+            "question_text": "อุบัติเหตุข้อใดร้ายแรงที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "รถยนต์ชนกัน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "มีดบาด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "หกล้ม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ประตูหนีบ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 301,
+            "question_text": "อุบัติเหตุเกิดจากสาเหตุใดมากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ความไม่มีระเบียบวินัย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ความไม่ชำนาญ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ความประมาท",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ความไม่รู้",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 302,
+            "question_text": "ทำไมไม่ควรเก็บยาไว้ที่เดียวกับสารเคมี",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ผิดกฎหมาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "าเสื่อมคุณภาพเร็ว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "อาจหยิบยาผิด",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เชื้อโรคอาจดื้อยา",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 303,
+            "question_text": "ข้อใดทำเกิดไฟไหม้ได้มากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เปิดวิทยุเป็นเวลานาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เสียบปลั๊กตู้เย็นไว้ตลอดเวลา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ดึงปลั๊กโดยกระตุกที่สายไฟ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ใช้เครื่องใช้ไฟฟ้าพร้อมกันหลายเครื่อง",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 304,
+            "question_text": "ไฟจราจรสีใดที่รถต้องหยุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สีแดง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สีเหลือง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สีเขียว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "สีขาว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 305,
+            "question_text": "ข้อใดเป็นการป้องกันไฟไหม้",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ทิ้งก้านไม้ขีดลงถังขยะ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เผาขยะในเตาเผาขยะ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ตั้งเทียนไขไว้ใกล้มุ้ง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ให้เด็กเล่นพลุตามลำพัง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 306,
+            "question_text": "ถ้าเกิดไฟไหม้บ้านและลุกลามมาก นักเรียนควรทำอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "วิ่งหนีออกมาให้เร็วที่สุด",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "รีบหาน้ำมาดับไฟ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "รีบหาผ้าห่มมาตีไฟให้ดับ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เปิดหน้าต่างให้อากาศถ่ายเท",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 307,
+            "question_text": "ยาเสื่อมคุณภาพแล้วควรทำอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "นำไปทิ้ง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "นำไปเล่น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ให้เพื่อน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "นำไปจำหน่าย",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 308,
+            "question_text": "ก่อนกินยาสิ่งที่ควรคือข้อใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ชิมดูรสชาติ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เตรียมน้ำดื่ม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เขย่าขวดดูสียา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "อ่านฉลากข้างขวด",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 309,
+            "question_text": "ยาบ้าเป็นสารเสพติดประเภทใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "กดประสาท",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กระตุ้นประสาท",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "หลอนประสาท",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ออกฤทธิ์ผสมผสาน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 310,
+            "question_text": "ข้อใดไม่ใช่ผลจากการใช้สารเสพติด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ร่างกายทรุดโทรม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "อารมณ์หงุดหงิดง่าย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ทำให้เสียชีวิต",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ทำให้น้ำหนักเพิ่ม",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 311,
+            "question_text": "ครอบครัวลักษณะใดที่จะทำให้ลูกติดยาเสพติดได้ง่าย",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "พ่อแม่อยู่ร่วมกัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "พ่อแม่เลี้ยงลูกเอง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "พ่อแม่ทะเลาะกัน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "พ่อแม่ทำงานนอกบ้าน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 13,
+            "question_id": 312,
+            "question_text": "ผู้ที่ดมสารระเหยจะมีอาการอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "วิงเวียนศรีษะ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ช่างพูด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เบื่ออาหาร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เกียจคร้าน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 14,
+            "question_id": 313,
+            "question_text": "ใครติดสารเสพติด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แก้วชอบดื่มน้ำอัดลม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กิ่งชอบดมกาว",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "กุ้งชอบกินลูกกวาด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ก้านชอบเลียไอศกรีม",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 15,
+            "question_id": 314,
+            "question_text": "ในวัยของนักเรียนควรปฎิบัติตามสิทธิข้อใดมากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เรียนหนังสือ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เล่นกับเพื่อน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ทำงานหาเงิน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ช่วยทำงานบ้าน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 16,
+            "question_id": 315,
+            "question_text": "ข้อใดเป็นการละเมิดสิทธิของผู้อื่น",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สอนการบ้านเพื่อน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เปิดกระโปรงเพื่อน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แบ่งขนมให้เพื่อน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ให้เสื้อผ้ากับเพื่อน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 17,
+            "question_id": 316,
+            "question_text": "นักเรียนจะรักษาสิทธิของตนเองได้อย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ไม่พูดกับเพื่อน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ใช้เงินอย่างประหยัด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ตั้งใจเรียนหนังสือ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "สั่งให้น้องทำตาม",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 18,
+            "question_id": 317,
+            "question_text": "ถ้าคนแปลกหน้ามาชวนไปเที่ยวควรตอบอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ไม่ไปโว๊ย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "อย่ายุ่งกับฉัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไปไกล ๆ หน่อย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ไม่ไปขอบคุณค่ะ",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 19,
+            "question_id": 318,
+            "question_text": "ถ้าน้องไม่เชื่อฟังเราควรทำอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ตีน้อง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ว่าน้อง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เตือนน้อง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ดุด่าน้อง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 20,
+            "question_id": 319,
+            "question_text": "ถ้านักเรียนมีความคิดเห็นไม่ตรงกัน ในการทำงานกลุ่มควรทำอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ทำตามเสียงส่วนใหญ่",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ทำตามตัวเอง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ทำตามเพื่อน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ทำตามครูสั่ง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 21,
+            "question_id": 320,
+            "question_text": " ผู้ปฐมพยาบาลควรมีลักษณะอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มีความรู้เกี่ยวกับวิธีการปฐมพยาบาล",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "คล่องแคล่ว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "มีเหตุผล",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ฉลาด หลักแหลม",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 22,
+            "question_id": 321,
+            "question_text": "ข้อใดไม่ใช่วิธีปฐมพยาบาลผู้ถูกไฟไหม้",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "นำผู้บาดเจ็บไปที่ที่มีอากาศบริสุทธิ์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ตัดเสื้อผ้าที่ไหม้ออก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ล้างแผลด้วยแอลกอฮอล์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แช่บริเวณที่ถูกไฟลวกในน้ำเย็น",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 23,
+            "question_id": 322,
+            "question_text": "การปฐมพยาบาลผู้ที่ถูกน้ำร้อนลวกที่ถูกวิธีควรทำอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ใส่ทิงเจอร์ไอโอดีน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "แช่บริเวณที่ถูกลวกด้วยน้ำเย็น",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ล้างแผลด้วยแอลกอฮอล์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ใช้น้ำมันพืชทาที่บาดแผล",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 24,
+            "question_id": 323,
+            "question_text": "ยาพาราเซตามอลใช้รักษาโรคใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ปวดศรีษะ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "จุกเสียด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "วิงเวียน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ตาอักเสบ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 25,
+            "question_id": 324,
+            "question_text": "ข้อใดเป็นกิจกรรมเสริมสร้างการทรงตัว",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ดันพื้น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เดินด้วยปลายเท้า",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ยืนก้มตัว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "นั่งรูปตัววี",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 26,
+            "question_id": 325,
+            "question_text": "ถ้าต้องการเสริมสร้างความแข็งแรงควรฝึกกิจกรรมใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "กระโดดแตะที่หมาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "วิ่งสลับฟันปลา",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ยืนแอ่นตัว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ยืนด้วยขาข้างเดียว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 27,
+            "question_id": 326,
+            "question_text": "การกระโดดแตะที่หมายต้องใช้กล้ามเนื้อส่วนใดมากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แขน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ข้อเท้า",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "มือ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ลำตัว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 28,
+            "question_id": 327,
+            "question_text": "ถ้าต้องการกลิ้งบอลแล้ววิ่งแซงหน้าลูกบอลได้ อธิบายว่าอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มีการทรงตัว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "มีความอดทน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ร่างกายแข็งแรง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "มีความว่องไว",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 29,
+            "question_id": 328,
+            "question_text": " ข้อใดเป็นหลักในการสร้างร่างกายไปให้ได้ผลดี",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ใช้เวลาปฎิบัติมาก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ปฎิบัติสม่ำเสมอ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ฝึกแต่ที่สนใจ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ฝึกพร้อมกับเพื่อน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 30,
+            "question_id": 329,
+            "question_text": "ผู้ที่นั่งเหยียดขา ก้มตัว มือแตะปลายเท้า จะได้ผลดีอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มีความอ่อนตัว",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "มีการทรงตัวดี",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "มีร่างกายที่สมบูรณ์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ถูกทุกข้อ",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

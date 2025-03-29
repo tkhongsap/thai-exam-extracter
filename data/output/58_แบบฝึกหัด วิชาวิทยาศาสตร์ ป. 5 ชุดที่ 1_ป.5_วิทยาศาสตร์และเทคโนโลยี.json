@@ -1,0 +1,416 @@
+{
+    "metadata": {
+        "exam_id": 58,
+        "exam_name": "แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 5 ชุดที่ 1",
+        "level_name": "ป.5",
+        "subject_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "question_count": "15"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 709,
+            "question_text": "ความหนาแน่นของวัตถุขึ้นอยู่กับอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มวลและปริมาตร",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ขนาดและปริมาตร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "น้ำหนักและความดัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ความพรุนและน้ำหนัก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 710,
+            "question_text": "ข้อใดหมายถึงปริมาณเนื้อสารในวัตถุ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มวล",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ปริมาตร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "น้ำหนัก",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ความหนาแน่น",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 711,
+            "question_text": "แท่งเหล็กเป็นวัสดุที่จมน้ำ แต่ทำไมเรือที่ทำด้วยเหล็กจึงลอยน้ำ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เรือมีความแข็งแรงมาก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เรือมีมวลมากกว่าแท่งเหล็ก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เรือมีความหนาแน่นน้อยกว่าน้ำ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เรือมีความหนาแน่นมากกว่าแท่งเหล็ก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 712,
+            "question_text": "โลหะบริสุทธิ์ชนิดเดียวกันจะมีสิ่งใดเท่ากัน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มวล",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "น้ำหนัก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "อุณหภูมิ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ความหนาแน่น",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 713,
+            "question_text": "ความดันบริเวณใดของเขื่อนกั้นน้ำมีมากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ตอนกลางของเขื่อน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ตอนล่างของเขื่อน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ตอนบนของเขื่อน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ตอนบนและตอนกลางของเขื่อน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 714,
+            "question_text": "ปอสังเกตการสืบพันธุ์ของปลากัดพบว่า ปลากัดตัวผู้ก่อหวอด จากนั้นก็รัดปลากัดตัวเมีย จนปล่อยเซลล์ไข่ออกมา แล้วตัวผู้ก็จะปล่อยอสุจิออกมาผสมกับเซลล์ไข่ แล้วอมไข่ไปพ่นไว้ที่หวอด จากการสังเกต ปอสรุปผลการสืบพันธุ์ของปลากัดได้ตามข้อใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สืบพันธุ์แบบอาศัยเพศ - ปฏิสนธิภายในร่างกาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สืบพันธุ์แบบอาศัยเพศ - ปฏิสนธิภายนอกร่างกาย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สืบพันธุ์แบบไม่อาศัยเพศ - ปฏิสนธิภายในร่างกาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "สืบพันธุ์แบบไม่อาศัยเพศ - ปฏิสนธิภายนอกร่างกาย",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 715,
+            "question_text": "เพราะเหตุใดเรือดำน้ำจึงไม่สามารถดำลงไปลึกมาก ๆ ได้",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เพราะมีสัตว์ร้าย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เพราะอากาศมีน้อย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เพราะแสงส่องไม่ถึง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เพราะแรงดันของน้ำมีมาก",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 716,
+            "question_text": "หากดำน้ำลงไปลึก ๆ ความกดดันของน้ำจะเป็นอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มากขึ้น",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "น้อยลง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เท่าเดิม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ปานกลาง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 717,
+            "question_text": "เมื่อนักเรียนนั่งรถขึ้นภูเขา จะรู้สึกว่าหูอื้อเพราะเหตุใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ในที่สูงความดันอากาศจะสูงทำให้หูอื้อ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ในที่สูงความดันอากาศจะต่ำทำให้หูอื้อ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ความดันอากาศภายในและภายนอกเท่ากัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ความดันอากาศภายในมากกว่าภายนอกรถ",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 718,
+            "question_text": "การสำรวจและสังเกตสัตว์ หากพบสัตว์ที่มีสีสันฉูดฉาด นักเรียนควรทำอย่างไร\r\n",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เข้าไปดูใกล้ๆ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ใช้มือจับอย่างเบาๆ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สำรวจดูว่าเป็นสัตว์มีพิษหรือไม่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ระมัดระวังไม่เข้าใกล้",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 719,
+            "question_text": "การที่น้ำแข็งลอยน้ำได้ เป็นเพราะเหตุผลในข้อใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มีน้ำหนักน้อยกว่าน้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "มีปริมาตรน้อยกว่าน้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "มีความหนาแน่นน้อยกว่ามี",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "มีปริมาตรและน้ำหนักน้อยกว่าน้ำ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 720,
+            "question_text": "ข้อใด ไม่ใช่ คุณสมบัติที่เกี่ยวข้องกับการลอยหรือจมของวัตถุ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มวลของวัตถุ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "รูปร่างของวัตถุ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "อุณหภูมิของวัตถุ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ความหนาแน่นของวัตถุ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 13,
+            "question_id": 721,
+            "question_text": "ดินน้ำมันก้อนหนึ่งมีความหนาแน่น 10 กรัมต่อลูกบาศก์เซนติเมตรมีปริมาตร 45 ลูกบาศก์เซนติเมตรอยากทราบว่าดินน้ำมันก้อนนี้มีมวลเท่าไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "300  กรัม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "350  กรัม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "400  กรัม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "450  กรัม",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 14,
+            "question_id": 722,
+            "question_text": "รองเท้ามีพื้นรองเท้าที่ไม่เรียบเพื่ออะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ลดแรงเสียดทาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เพิ่มแรงเสียดทาน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ทำให้รองเท้านุ่มขึ้น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ทำให้รองเท้ามีรูปทรงดีกว่าเดิม",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 15,
+            "question_id": 723,
+            "question_text": "พื้นในข้อใดจะช่วยลดแรงเสียดทาน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "พื้นนุ่ม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "พื้นแห้ง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "พื้นเอียง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "พื้นขรุขระ",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

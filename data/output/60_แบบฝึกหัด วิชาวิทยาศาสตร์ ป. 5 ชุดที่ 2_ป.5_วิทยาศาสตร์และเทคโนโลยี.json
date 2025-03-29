@@ -1,0 +1,416 @@
+{
+    "metadata": {
+        "exam_id": 60,
+        "exam_name": "แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 5 ชุดที่ 2",
+        "level_name": "ป.5",
+        "subject_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "question_count": "15"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 734,
+            "question_text": "ข้อใดป็นการเพิ่มแรงเสียดทาน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เทน้ำไปบนพื้นเรียบ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ทำล้อรถเป็นรอยหยัก",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ทาจาระบีที่บานพับประตู",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ฉาบซีเมนต์ทางเดินให้เรียบ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 735,
+            "question_text": "ถนนในข้อใดมีแรงเสียดทานมากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ถนนลูกรัง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ถนนซีเมนต์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ถนนลาดยาง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "มีแรงเสียดทานเท่ากันทุกข้อ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 736,
+            "question_text": "ข้อใดไม่ใช่ประโยชน์ของการลดแรงเสียดทาน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ออกแรงน้อยลง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ไม่ลื่นหกล้มง่าย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ประหยัดพลังงาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เครื่องยนต์ทำงานได้คล่อง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 737,
+            "question_text": "ข้อใดกล่าวไม่ถูกต้องในเรื่องของแรงเสียดทาน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แรงเสียดทานของวัตถุจะขึ้นอยู่กับรูปร่างของวัตถุ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "แรงเสียดทานของวัตถุจะขึ้นอยู่กับพื้นผิวสัมผัส",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แรงเสียดทานมีทิศทางเดียวกับทิศทางการเคลื่อนที่",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แรงเสียดทานมีทิศทางตรงข้ามกับทิศทางการเคลื่อนที่",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 738,
+            "question_text": "พื้นชนิดใดทำให้เกิดแรงเสียดทานมากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "พื้นไม้",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "พื้นยาง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "พื้นกระจก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "พื้นหินอ่อน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 739,
+            "question_text": "ข้อใดเกิดขึ้นหลังมีหมอก",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ฝน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "หิมะ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ลูกเห็บ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "น้ำค้าง",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 740,
+            "question_text": "ไอน้ำที่ควบแน่นเป็นละอองน้ำในระดับใกล้พื้นโลกเรียกว่าอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เมฆ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "หิมะ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "หมอก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "น้ำค้าง",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 741,
+            "question_text": "เครื่องมือสำหรับวัตถุวัดอุณหภูมิเรียกว่าอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "บารอมิเตอร์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เทอร์มอมิเตอร์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไฮโกรมิเตอร์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แอนนิมอมิเตอร์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 742,
+            "question_text": "ข้อใดเป็นประโยชน์ทางเศรษฐกิจของลมบก – ลมทะเล",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ช่วยให้ทะเลสวยงาม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ช่วยให้อากาศบริสุทธิ์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ช่วยให้ชาวประมงออกหาปลาได้",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ช่วยให้อากาศชายทะเลมีไอน้ำมาก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 743,
+            "question_text": "อะไรเป็นสาเหตุทำให้น้ำระเหยขึ้นในบรรยากาศ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ฝน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เมฆ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไอน้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ดวงอาทิตย์",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 744,
+            "question_text": "ข้อใดไม่ใช่ปัจจัยที่มีผลต่อวัฎจักรของน้ำ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ลม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "อากาศ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ป่าไม้",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ความร้อน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 745,
+            "question_text": "สาเหตุใดที่ทำให้เกิดกลางวันและกลางคืน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "การหมุนรอบตัวเองของโลก",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "การหมุนของโลกรอบดวงจันทร์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "การหมุนของดวงจันทร์รอบโลก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "การหมุนของโลกรอบดวงอาทิตย์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 13,
+            "question_id": 746,
+            "question_text": "เครื่องมือที่ใช้บอกทิศทางลมคือข้อใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ศรลม",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "บารอกราฟ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไฮโกรมิเตอร์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แอนนิมอมิเตอร์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 14,
+            "question_id": 747,
+            "question_text": "เครื่องมือสำหรับวัดความชื้นในอากาศเรียกว่าอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "บารอมิเตอร์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เทอร์มอมิเตอร์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไฮโกรมิเตอร์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แอนนิมอมิเตอร์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 15,
+            "question_id": 748,
+            "question_text": "ความชื้นของอากาศ คืออะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ปริมาณละอองน้ำในอากาศ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ปริมาณการควบแน่นของไอน้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ปริมาณของไอน้ำที่มีอยู่ในอากาศ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ปริมาณที่อากาศสามารถรับไอน้ำได้อีก",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

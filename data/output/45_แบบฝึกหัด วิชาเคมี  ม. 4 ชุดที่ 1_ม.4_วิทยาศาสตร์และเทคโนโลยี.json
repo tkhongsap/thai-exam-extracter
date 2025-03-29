@@ -1,0 +1,551 @@
+{
+    "metadata": {
+        "exam_id": 45,
+        "exam_name": "แบบฝึกหัด วิชาเคมี  ม. 4 ชุดที่ 1",
+        "level_name": "ม.4",
+        "subject_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "question_count": "20"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 330,
+            "question_text": "ข้อใดเป็นกระบวนการวัลคาไนเซชัน ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "การทำให้เนื้อยางตกตะกอน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "การทำให้น้ำยางไม่บูดเน่า",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ใช้การการผลิตยางสังเคราะห์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "การทำให้ยางมีความยืดหยุ่นคงรูปมากขึ้น",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 331,
+            "question_text": "วัตถุดิบในการผลิตยางสังเคราะห์ได้มาจากแหล่งใด ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ปิโตรเลียม",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "น้ำมัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แก๊สธรรมชาติ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ถ่านหิน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 332,
+            "question_text": "ข้อใดเป็นประโยชน์ของพอลิเมอร์สังเคราะห์ ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ใช้ทำอวัยวะเทียม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ใช้ในด้านศัลยกรรมตกแต่ง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ใช้เป็นสารยึดติด เช่น กาว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ถูกทุกข้อ",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 333,
+            "question_text": "มอนอเมอร์ของพอลิโพรพิลีน  คืออะไร ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "โพรเพน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "โพรพีน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แนฟทา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "โพรพิลีน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 334,
+            "question_text": "<p>ข้อใดเป็นตัวอย่างของผลิตภัณฑ์จากอุตสาหกรรมปิโตรเคมีขั้นต้น ?</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>อีเทน โพรเพน</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>เอทิลีน โพรพิลีน</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "<p>พอลิเอทิลีน พอลิโพรพิลีน</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "<p>เซลลูโลอะซิเตต เรยอน</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 335,
+            "question_text": "ข้อใดเป็นการแปลงสภาพของโปรตีน ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "โปรตีนตกผลึก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "พันธะเพปไทด์ในโมเลกุลโปรตีนถูกทำลาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "พันธะเพปไทด์ และพันธะไฮโดรเจนในโมเลกุลของโปรตีนถูกทำลาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "พันธะไฮโดรเจนในโมเลกุลถูกทำลาย แต่พันธะเพปไทด์ไม่ถูกทำลาย",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 336,
+            "question_text": "โปรตีนแต่ละชนิดต่างกันดังต่อไปนี้ ยกเว้นข้อใด ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ชนิดของกรดอะมิโนที่เป็นองค์ประกอบ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "จำนวนของกรดอะมิโนในแต่ละโมเลกุล",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ชนิดของธาตุพื้นฐานสำคัญที่เป็นองค์ประกอบ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ลำดับและการจัดเรียงตัวของกรดอะมิโนในพอลิเพปไทด์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 337,
+            "question_text": "สารอาหารประเภทใดให้พลังงานแก่ร่างกาย ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "คาร์โบไฮเดรต  ไขมัน  น้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เกลือแร่  น้ำ  ไขมัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "คาร์โบไฮเดรต  ไขมัน  โปรตีน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "โปรตีน  คาร์โบไฮเดรต  เกลือแร่",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 338,
+            "question_text": "ข้อใดกล่าวถึงไขมันและน้ำมันได้ถูกต้อง ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เป็นสารประกอบพวกไตรกลีเซอไรด์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ประกอบด้วยกลีเซอรอลที่มีองค์ประกอบเป็นกรดไขมัน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เป็นสารโมเลกุลใหญ่เกิดจากการรวมตัวกันของกรดไขมัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ประกอบด้วยกรดไขมันอิ่มตัวและไม่อิ่มตัวเชื่อมต่อกันด้วยพันธะเดี่ยว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 339,
+            "question_text": "บทบาทที่สำคัญของกรดนิวคลิอิกคืออะไร ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ช่วยในการเจริญเติบโต",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สลายให้พลังงาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ถ่ายทอดลักษณะทางพันธุกรรม",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เป็นส่วนหนึ่งในการรักษาสมดุลของน้ำและกรด-เบส",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 340,
+            "question_text": "น้ำมันและไขมันแตกต่างกันอย่างไร ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มีองค์ประกอบที่ต่างกัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "มีโครงสร้างของกลีเซอรอลต่างกัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "มีจำนวนของกรดไขมันไม่เท่ากัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "มีสถานะที่อุณหภูมิห้องไม่เหมือนกัน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 341,
+            "question_text": "ข้อใดคือประโยชน์ในทางโภชนาการเมื่อโปรตีนเกิดการเปลี่ยนแปลงสภาพ ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ช่วยทำให้เชื้อโรคตาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ช่วยในการรักษาโรคมะเร็ง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ช่วยทำให้โปรตีนย่อยได้ง่ายขึ้น",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ช่วยแก้พิษเมื่อคนไข้ดื่มยาพิษที่เป็นสารประกอบของสารโลหะหนัก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 13,
+            "question_id": 342,
+            "question_text": "ถ้านักเรียนรับประทานเฉพาะอาหารมังสวิรัติ นักเรียนจะมีโอกาสขาดสารอาหารประเภทใด ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "โปรตีน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "คาร์โบไฮเดรต",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ไขมันและน้ำมัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "กรดนิวคลีอิก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 14,
+            "question_id": 343,
+            "question_text": "นิวคลีโอไทด์ของดีเอ็นเอ  ประกอบด้วยสารใดต่อไปนี้ ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "น้ำตาลไรโบส  N-เบส และหมู่ฟอสเฟต",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "น้ำตาลกลูโคส  N-เบส และหมู่ฟอสเฟต",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "น้ำตาลดีออกซีไรโบส  N-เบส และหมู่ฟอสเฟต",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "น้ำตาลดีออกซีไรโบส  N-เบส และไตรกลีเซอไรด์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 15,
+            "question_id": 344,
+            "question_text": "หน่วยย่อยของกรดนิวคลีอิกคืออะไร ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "กรดอะมิโน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กลูโคส",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "นิวคลีโอไทด์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "กรดไขมัน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 16,
+            "question_id": 345,
+            "question_text": "พลังงานที่ใช้ในการออกกำลังกายได้จากการสลายสารอาหารประเภทใดเป็นอันดับแรก ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ไขมัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "คาร์โบไฮเดรต",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "โปรตีน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "กรดนิวคลีอิก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 17,
+            "question_id": 346,
+            "question_text": "คาร์โบไฮเดรตชนิดใดที่ร่างกายสามารถนำไปใช้ได้โดยตรง ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "น้ำตาลมอลโทส",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "น้ำตาลซูโครส",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "น้ำตาลกลูโคส",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ไกลโคเจน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 18,
+            "question_id": 347,
+            "question_text": "ธาตุที่เป็นองค์ประกอบของสารประเภทคาร์โบไฮเดรตคือข้อใด ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ธาตุคาร์บอน  ไฮโดรเจน  และออกซิเจน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ธาตุคาร์บอน  ไฮโดรเจน  และไนโตรเจน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ธาตุคาร์บอน  ไนโตรเจน  และออกซิเจน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ธาตุคาร์บอน  ไฮโดรเจน   ออกซิเจน  และไนโตรเจน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 19,
+            "question_id": 348,
+            "question_text": "ข้อใดต่อไปนี้ไม่ใช่สารประเภทโปรตีน ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ใยแมงมุม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เขาสัตว์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "คอเลสเทอรอล",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ฮีโมโกลบิน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 20,
+            "question_id": 349,
+            "question_text": "สารชนิดใดต่อไปนี้จัดเป็นสารประเภทโปรตีน ?",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ไกลโคเจน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ไตรกลีเซอไรด์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "กรดอะมิโน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "กรดนิวคลีอิก",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

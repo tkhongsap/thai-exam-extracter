@@ -1,0 +1,335 @@
+{
+    "metadata": {
+        "exam_id": 54,
+        "exam_name": "แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 4 ชุดที่ 1",
+        "level_name": "ป.4",
+        "subject_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "question_count": "12"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 660,
+            "question_text": "ข้อใดคือหน้าที่สำคัญของดอกไม้",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สืบพันธุ์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สะสมอาหาร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ล่อแมลง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ให้กลิ่นหอม",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 661,
+            "question_text": "การเปลี่ยนแปลงก๊าซเกิดขึ้นที่ส่วนใดของต้นไม้",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ใบ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ราก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ลำต้น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ดอก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 662,
+            "question_text": "การสังเคราะห์ด้วยแสงคืออะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "การส่งอาหาร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "การรับแสง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "การสร้างอาหาร",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "การดูดน้ำมาให้แสง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 663,
+            "question_text": "การสร้างอาหารของพืชไม่ต้องอาศัยข้อใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แสงแดด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "น้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ก๊าซออกซิเจน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ก๊าซคาร์บอนไดออกไซด์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 664,
+            "question_text": "ส่วนประกอบใดของดอกที่ทำให้เกิดการสืบพันธุ์",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เกสร",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กลีบดอก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "กลีบเลี้ยง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ฐานรองดอก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 665,
+            "question_text": "พืชขนาดเล็กเบนออกจากร่มพืชขนาดใหญ่  เป็นการตอบสนองต่อสิ่งเร้าใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "น้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ดิน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ลม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "แสง",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 666,
+            "question_text": "ถ้าเราสัมผัสกับผักกระเฉดหรือไมยราบจะเกิดอะไรขึ้น",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ผักจะดึดตัวขึ้น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ผักจะหุบใบ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ผักจะกางใบออก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ผักจะสลัดใบออก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 667,
+            "question_text": "การตอบสนองของพืชต่อแสงเพื่อให้เกิดกระบวนการใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "การดูดซึมแร่ธาตุ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "การคายน้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "การรับแสง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "การสังเคราะห์ด้วยแสง",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 668,
+            "question_text": "<p>ข้อใดไม่ใช่หน้าที่ของใบไม้</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>หายใจ</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>คายน้ำ</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "<p>สร้างอาหาร</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "<p>สืบพันธุ์</p>",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 669,
+            "question_text": "<p>หนามของต้นกระบองเพชร เป็นส่วนที่เปลี่ยนมาจากส่วนใด</p>",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "<p>ลำต้น</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "<p>ใบ</p>",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "<p>กิ่ง</p>",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "<p>ดอก</p>",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 670,
+            "question_text": "รากใบกระชาย  มีหน้าที่พิเศษอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สร้างอาหาร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สะสมอาหาร",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ยึดลำต้นให้ตั้งอยู่ได้",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ดูดน้ำและแร่ธาตุได้",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 671,
+            "question_text": "พืชคายออกซิเจนออกมาทางใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ลำต้น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ราก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ดอก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ปากใบ",
+                    "is_correct": true
+                }
+            ]
+        }
+    ]
+}

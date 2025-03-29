@@ -1,0 +1,281 @@
+{
+    "metadata": {
+        "exam_id": 74,
+        "exam_name": "ข้อสอบ ภาษาไทย ชั้น ป. 4 ชุดที่ 6",
+        "level_name": "ป.4",
+        "subject_name": "ภาษาไทย",
+        "question_count": "10"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 899,
+            "question_text": "ไผ่ไปซื้อไก่ย่างที่ร้านป้าไหมเจ้าเก่า\r\nจากข้อความ มีคำอยู่ในแม่ ก กา กี่คำ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "7 คำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "8 คำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "9 คำ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "10 คำ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 900,
+            "question_text": "ข้อใดมีคำที่สะกดด้วยมาตรา \"แม่กด\" มากที่สุด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "มาลีเป็นเด็กดีของพ่อแม่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ตองไปวัดกับคุณยาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "พจน์ขับรถไปทำงาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ปัดใช้ดินสอกดจดงาน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 901,
+            "question_text": "ใครปฏิบัติตนไม่ถูกต้องในการพูด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ชุแลบลิ้นเมื่อพูดผิด",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "จูนใช้น้ำเสียงที่นุ่มนวล",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แอมเปิดโอกาสให้ผู้ฟังซักถาม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "มุกกล่าวขอบคุณเมื่อได้รับคำชม",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 902,
+            "question_text": "1. เขียนสรุปด้วยสำนวนภาษาของตนเอง\r\n2. คิดเรียบเรียงข้อมูลจากเรื่องที่อ่าน\r\n3. ตั้งใจอ่านเรื่องตั้งแต่ต้นจนจบ\r\n4. อ่านทบทวน ตรวจความเรียบร้อยและถูกต้อง\r\n\r\nจากข้อความ ข้อใดเรียงลำดับวิธีการอ่านจับใจความได้ถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "1 – 2 – 3 – 4",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "2 – 3 – 4 – 1",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "3 – 2 – 1 – 4",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "4 – 1 – 2 – 3",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 903,
+            "question_text": "ข้อใดเขียนตัวการันต์ไม่ถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "กษัตริ์ย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "รามเกียรติ์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ศักดิ์ศรี",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ศักดิ์สิทธิ์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 904,
+            "question_text": "ข้อใดอ่านกลอนสุภาพไม่ถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ขาดอะไร / ในโลก / ไม่โศกเศร้า",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เหมือนกับเรา / ทั้งชาติ / ขาดภาษา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "คงติดขัด / อัดอั้นตัน / อุรา",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "มองนัยน์ตา / ก็ไม่ชัด / รหัสใจ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 905,
+            "question_text": "ข้อใดไม่ใช่คำที่มีตัวสะกดมาตราแม่เกย",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เสีย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สวาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "โกย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ลุย",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 906,
+            "question_text": "ข้อใดเขียนผิด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "โอกาส",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "อากาส",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ประพาส",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "อาพาธ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 907,
+            "question_text": "คำว่า อุปนิสัย อ่านอย่างไร\t",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "อุ – ปะ – นิ – สัย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "อุบ – ปา – นิ – สัย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "อุบ – นิ – สัย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "อุบ – ปะ – นิ – สัย",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 908,
+            "question_text": "ข้อใดมีเสียงวรรณยุกต์จัตวาทุกคำ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "น้อง  เอี๊ยม  ตู้  สิง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ง้าง  อ้ำ  อุ๊ย  กล้า",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ช้าง  นก  ร้อน  มด",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เกี๊ยว  ท้อง  กล่อง  กา",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

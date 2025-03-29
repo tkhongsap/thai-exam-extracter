@@ -2,3 +2,171 @@
 2025-03-29 21:20:49,071 - INFO - Data extraction complete for exam_id 12585. Saved to 'data\output\12585_สิ่งต่างๆ รอบตัวเด็ก อ.1-อ.3 สีอะไรเอ่ย__ปฐมวัย_สิ่งต่าง ๆ รอบตัวเด็ก.json'.
 2025-03-29 21:20:49,993 - INFO - Data extraction complete for exam_id 12586. Saved to 'data\output\12586_ภาษาไทย ป.1-ป.3 ข้อใดผิด_ประถมต้น_ภาษาไทย.json'.
 2025-03-29 21:20:50,495 - INFO - Extraction complete. Successfully processed 2 exams. Failed: 0
+2025-03-29 21:23:17,886 - INFO - Starting extraction for exam IDs 1 to 100
+2025-03-29 21:23:18,177 - ERROR - Failed to retrieve data for exam_id 1. Status code: 201
+2025-03-29 21:23:18,182 - WARNING - No data retrieved for exam_id 1.
+2025-03-29 21:23:18,855 - ERROR - Failed to retrieve data for exam_id 2. Status code: 201
+2025-03-29 21:23:18,856 - WARNING - No data retrieved for exam_id 2.
+2025-03-29 21:23:19,533 - ERROR - Failed to retrieve data for exam_id 3. Status code: 201
+2025-03-29 21:23:19,534 - WARNING - No data retrieved for exam_id 3.
+2025-03-29 21:23:20,211 - ERROR - Failed to retrieve data for exam_id 4. Status code: 201
+2025-03-29 21:23:20,213 - WARNING - No data retrieved for exam_id 4.
+2025-03-29 21:23:20,902 - ERROR - Failed to retrieve data for exam_id 5. Status code: 201
+2025-03-29 21:23:20,904 - WARNING - No data retrieved for exam_id 5.
+2025-03-29 21:23:21,634 - ERROR - Failed to retrieve data for exam_id 6. Status code: 201
+2025-03-29 21:23:21,635 - WARNING - No data retrieved for exam_id 6.
+2025-03-29 21:23:22,456 - ERROR - Failed to retrieve data for exam_id 7. Status code: 201
+2025-03-29 21:23:22,458 - WARNING - No data retrieved for exam_id 7.
+2025-03-29 21:23:23,271 - ERROR - Failed to retrieve data for exam_id 8. Status code: 201
+2025-03-29 21:23:23,272 - WARNING - No data retrieved for exam_id 8.
+2025-03-29 21:23:24,407 - ERROR - Failed to retrieve data for exam_id 9. Status code: 201
+2025-03-29 21:23:24,408 - WARNING - No data retrieved for exam_id 9.
+2025-03-29 21:23:25,224 - ERROR - Failed to retrieve data for exam_id 10. Status code: 201
+2025-03-29 21:23:25,227 - WARNING - No data retrieved for exam_id 10.
+2025-03-29 21:23:25,931 - ERROR - Failed to retrieve data for exam_id 11. Status code: 201
+2025-03-29 21:23:25,932 - WARNING - No data retrieved for exam_id 11.
+2025-03-29 21:23:26,765 - ERROR - Failed to retrieve data for exam_id 12. Status code: 201
+2025-03-29 21:23:26,767 - WARNING - No data retrieved for exam_id 12.
+2025-03-29 21:23:27,587 - ERROR - Failed to retrieve data for exam_id 13. Status code: 201
+2025-03-29 21:23:27,588 - WARNING - No data retrieved for exam_id 13.
+2025-03-29 21:23:28,609 - ERROR - Failed to retrieve data for exam_id 14. Status code: 201
+2025-03-29 21:23:28,610 - WARNING - No data retrieved for exam_id 14.
+2025-03-29 21:23:29,624 - ERROR - Failed to retrieve data for exam_id 15. Status code: 201
+2025-03-29 21:23:29,626 - WARNING - No data retrieved for exam_id 15.
+2025-03-29 21:23:30,440 - ERROR - Failed to retrieve data for exam_id 16. Status code: 201
+2025-03-29 21:23:30,441 - WARNING - No data retrieved for exam_id 16.
+2025-03-29 21:23:31,259 - ERROR - Failed to retrieve data for exam_id 17. Status code: 201
+2025-03-29 21:23:31,261 - WARNING - No data retrieved for exam_id 17.
+2025-03-29 21:23:31,908 - ERROR - Failed to retrieve data for exam_id 18. Status code: 201
+2025-03-29 21:23:31,909 - WARNING - No data retrieved for exam_id 18.
+2025-03-29 21:23:32,569 - ERROR - Failed to retrieve data for exam_id 19. Status code: 201
+2025-03-29 21:23:32,570 - WARNING - No data retrieved for exam_id 19.
+2025-03-29 21:23:33,273 - ERROR - Failed to retrieve data for exam_id 20. Status code: 201
+2025-03-29 21:23:33,274 - WARNING - No data retrieved for exam_id 20.
+2025-03-29 21:23:33,955 - ERROR - Failed to retrieve data for exam_id 21. Status code: 201
+2025-03-29 21:23:33,956 - WARNING - No data retrieved for exam_id 21.
+2025-03-29 21:23:34,673 - ERROR - Failed to retrieve data for exam_id 22. Status code: 201
+2025-03-29 21:23:34,674 - WARNING - No data retrieved for exam_id 22.
+2025-03-29 21:23:35,393 - ERROR - Failed to retrieve data for exam_id 23. Status code: 201
+2025-03-29 21:23:35,395 - WARNING - No data retrieved for exam_id 23.
+2025-03-29 21:23:36,494 - ERROR - Failed to retrieve data for exam_id 24. Status code: 201
+2025-03-29 21:23:36,496 - WARNING - No data retrieved for exam_id 24.
+2025-03-29 21:23:37,410 - ERROR - Failed to retrieve data for exam_id 25. Status code: 201
+2025-03-29 21:23:37,412 - WARNING - No data retrieved for exam_id 25.
+2025-03-29 21:23:38,333 - ERROR - Failed to retrieve data for exam_id 26. Status code: 201
+2025-03-29 21:23:38,333 - WARNING - No data retrieved for exam_id 26.
+2025-03-29 21:23:39,145 - ERROR - Failed to retrieve data for exam_id 27. Status code: 201
+2025-03-29 21:23:39,146 - WARNING - No data retrieved for exam_id 27.
+2025-03-29 21:23:39,839 - ERROR - Failed to retrieve data for exam_id 28. Status code: 201
+2025-03-29 21:23:39,841 - WARNING - No data retrieved for exam_id 28.
+2025-03-29 21:23:40,559 - ERROR - Failed to retrieve data for exam_id 29. Status code: 201
+2025-03-29 21:23:40,559 - WARNING - No data retrieved for exam_id 29.
+2025-03-29 21:23:41,242 - ERROR - Failed to retrieve data for exam_id 30. Status code: 201
+2025-03-29 21:23:41,243 - WARNING - No data retrieved for exam_id 30.
+2025-03-29 21:23:41,943 - ERROR - Failed to retrieve data for exam_id 31. Status code: 201
+2025-03-29 21:23:41,944 - WARNING - No data retrieved for exam_id 31.
+2025-03-29 21:23:42,640 - ERROR - Failed to retrieve data for exam_id 32. Status code: 201
+2025-03-29 21:23:42,641 - WARNING - No data retrieved for exam_id 32.
+2025-03-29 21:23:43,369 - ERROR - Failed to retrieve data for exam_id 33. Status code: 201
+2025-03-29 21:23:43,371 - WARNING - No data retrieved for exam_id 33.
+2025-03-29 21:23:44,376 - ERROR - Failed to retrieve data for exam_id 34. Status code: 201
+2025-03-29 21:23:44,377 - WARNING - No data retrieved for exam_id 34.
+2025-03-29 21:23:45,288 - ERROR - Failed to retrieve data for exam_id 35. Status code: 201
+2025-03-29 21:23:45,289 - WARNING - No data retrieved for exam_id 35.
+2025-03-29 21:23:46,005 - ERROR - Failed to retrieve data for exam_id 36. Status code: 201
+2025-03-29 21:23:46,005 - WARNING - No data retrieved for exam_id 36.
+2025-03-29 21:23:46,724 - INFO - Data extraction complete for exam_id 37. Saved to 'data\output\37_วัดผลปลายภาคเรียนที่ 2 ( ภาคความรู้ )_ป.1_สุขศึกษาและพลศึกษา.json'.
+2025-03-29 21:23:47,373 - ERROR - Failed to retrieve data for exam_id 38. Status code: 201
+2025-03-29 21:23:47,374 - WARNING - No data retrieved for exam_id 38.
+2025-03-29 21:23:48,110 - INFO - Data extraction complete for exam_id 39. Saved to 'data\output\39_วัดผลปลายภาคเรียนที่ 2 (ภาคความรู้)_ป.3_สุขศึกษาและพลศึกษา.json'.
+2025-03-29 21:23:48,818 - ERROR - Failed to retrieve data for exam_id 40. Status code: 201
+2025-03-29 21:23:48,818 - WARNING - No data retrieved for exam_id 40.
+2025-03-29 21:23:49,492 - ERROR - Failed to retrieve data for exam_id 41. Status code: 201
+2025-03-29 21:23:49,493 - WARNING - No data retrieved for exam_id 41.
+2025-03-29 21:23:50,313 - ERROR - Failed to retrieve data for exam_id 42. Status code: 201
+2025-03-29 21:23:50,314 - WARNING - No data retrieved for exam_id 42.
+2025-03-29 21:23:51,026 - ERROR - Failed to retrieve data for exam_id 43. Status code: 201
+2025-03-29 21:23:51,027 - WARNING - No data retrieved for exam_id 43.
+2025-03-29 21:23:51,847 - INFO - Data extraction complete for exam_id 44. Saved to 'data\output\44_วัดผลปลายภาคเรียนที่ 2 ( ภาคความรู้ )_ป.5_สุขศึกษาและพลศึกษา.json'.
+2025-03-29 21:23:52,681 - INFO - Data extraction complete for exam_id 45. Saved to 'data\output\45_แบบฝึกหัด วิชาเคมี  ม. 4 ชุดที่ 1_ม.4_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:23:54,056 - INFO - Data extraction complete for exam_id 46. Saved to 'data\output\46_วัดผลปลายภาคเรียนที่ 2 (ภาคความรู้)_ป.6_สุขศึกษาและพลศึกษา.json'.
+2025-03-29 21:23:54,892 - INFO - Data extraction complete for exam_id 47. Saved to 'data\output\47_ข้อสอบ ภาษาไทย  ป. 1 ชุดที่ 32_ป.1_ภาษาไทย.json'.
+2025-03-29 21:23:55,773 - INFO - Data extraction complete for exam_id 48. Saved to 'data\output\48_ข้อสอบ ภาษาไทย  ป. 1 ชุดที่ 31_ป.1_ภาษาไทย.json'.
+2025-03-29 21:23:56,549 - INFO - Data extraction complete for exam_id 49. Saved to 'data\output\49_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 2 ประโยชน์ของสิ่งแวดล้อมรอบตัวเรา ชุดที่ 1_ป.2_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:23:57,320 - INFO - Data extraction complete for exam_id 50. Saved to 'data\output\50_ข้อสอบ ภาษาไทย  ป. 1 ชุดที่ 30_ป.1_ภาษาไทย.json'.
+2025-03-29 21:23:58,088 - INFO - Data extraction complete for exam_id 51. Saved to 'data\output\51_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 3 ชุดที่ 1_ป.3_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:23:58,909 - INFO - Data extraction complete for exam_id 52. Saved to 'data\output\52_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 3 ชุดที่ 2_ป.3_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:23:59,837 - INFO - Data extraction complete for exam_id 53. Saved to 'data\output\53_ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 28_ป.3_ภาษาไทย.json'.
+2025-03-29 21:24:00,585 - INFO - Data extraction complete for exam_id 54. Saved to 'data\output\54_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 4 ชุดที่ 1_ป.4_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:01,301 - INFO - Data extraction complete for exam_id 55. Saved to 'data\output\55_ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 23_ป.3_ภาษาไทย.json'.
+2025-03-29 21:24:02,109 - INFO - Data extraction complete for exam_id 56. Saved to 'data\output\56_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 4 ชุดที่ 2_ป.4_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:02,910 - INFO - Data extraction complete for exam_id 57. Saved to 'data\output\57_ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 27_ป.3_ภาษาไทย.json'.
+2025-03-29 21:24:03,759 - INFO - Data extraction complete for exam_id 58. Saved to 'data\output\58_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 5 ชุดที่ 1_ป.5_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:04,500 - INFO - Data extraction complete for exam_id 59. Saved to 'data\output\59_ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 26_ป.3_ภาษาไทย.json'.
+2025-03-29 21:24:05,263 - INFO - Data extraction complete for exam_id 60. Saved to 'data\output\60_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 5 ชุดที่ 2_ป.5_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:06,000 - INFO - Data extraction complete for exam_id 61. Saved to 'data\output\61_ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 25_ป.3_ภาษาไทย.json'.
+2025-03-29 21:24:06,896 - INFO - Data extraction complete for exam_id 62. Saved to 'data\output\62_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 6 ชุดที่ 3_ป.6_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:07,887 - INFO - Data extraction complete for exam_id 63. Saved to 'data\output\63_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 6 ชุดที่ 4_ป.6_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:08,841 - INFO - Data extraction complete for exam_id 64. Saved to 'data\output\64_ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 24_ป.3_ภาษาไทย.json'.
+2025-03-29 21:24:09,870 - INFO - Data extraction complete for exam_id 65. Saved to 'data\output\65_ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 22_ป.3_ภาษาไทย.json'.
+2025-03-29 21:24:10,632 - INFO - Data extraction complete for exam_id 66. Saved to 'data\output\66_ข้อสอบ ภาษาไทย ชั้น ป. 4 ชุดที่ 1_ป.4_ภาษาไทย.json'.
+2025-03-29 21:24:11,375 - INFO - Data extraction complete for exam_id 67. Saved to 'data\output\67_ข้อสอบ ภาษาไทย ชั้น ป. 4 ชุดที่ 2_ป.4_ภาษาไทย.json'.
+2025-03-29 21:24:12,117 - INFO - Data extraction complete for exam_id 68. Saved to 'data\output\68_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 6 ชุดที่ 5_ป.6_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:12,839 - INFO - Data extraction complete for exam_id 69. Saved to 'data\output\69_ข้อสอบ ภาษาไทย ชั้น ป. 4 ชุดที่ 4_ป.4_ภาษาไทย.json'.
+2025-03-29 21:24:13,551 - INFO - Data extraction complete for exam_id 70. Saved to 'data\output\70_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 3 เรื่อง ระบบนิเวศ ชุดที่ 1_ป.3_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:14,373 - INFO - Data extraction complete for exam_id 71. Saved to 'data\output\71_ข้อสอบ ภาษาไทย ชั้น ป. 4 ชุดที่ 3_ป.4_ภาษาไทย.json'.
+2025-03-29 21:24:15,211 - INFO - Data extraction complete for exam_id 72. Saved to 'data\output\72_ข้อสอบ ภาษาไทย ชั้น ป. 4 ชุดที่ 5_ป.4_ภาษาไทย.json'.
+2025-03-29 21:24:16,117 - INFO - Data extraction complete for exam_id 73. Saved to 'data\output\73_แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 3 เรื่อง ระบบนิเวศ ชุดที่ 2_ป.3_วิทยาศาสตร์และเทคโนโลยี.json'.
+2025-03-29 21:24:16,923 - INFO - Data extraction complete for exam_id 74. Saved to 'data\output\74_ข้อสอบ ภาษาไทย ชั้น ป. 4 ชุดที่ 6_ป.4_ภาษาไทย.json'.
+2025-03-29 21:24:17,748 - INFO - Data extraction complete for exam_id 75. Saved to 'data\output\75_ข้อสอบ ภาษาไทย ชั้น ป. 4 ชุดที่ 7_ป.4_ภาษาไทย.json'.
+2025-03-29 21:24:18,466 - ERROR - Failed to retrieve data for exam_id 76. Status code: 201
+2025-03-29 21:24:18,467 - WARNING - No data retrieved for exam_id 76.
+2025-03-29 21:24:19,179 - ERROR - Failed to retrieve data for exam_id 77. Status code: 201
+2025-03-29 21:24:19,183 - WARNING - No data retrieved for exam_id 77.
+2025-03-29 21:24:19,860 - ERROR - Failed to retrieve data for exam_id 78. Status code: 201
+2025-03-29 21:24:19,862 - WARNING - No data retrieved for exam_id 78.
+2025-03-29 21:24:20,555 - ERROR - Failed to retrieve data for exam_id 79. Status code: 201
+2025-03-29 21:24:20,556 - WARNING - No data retrieved for exam_id 79.
+2025-03-29 21:24:21,232 - ERROR - Failed to retrieve data for exam_id 80. Status code: 201
+2025-03-29 21:24:21,236 - WARNING - No data retrieved for exam_id 80.
+2025-03-29 21:24:21,923 - ERROR - Failed to retrieve data for exam_id 81. Status code: 201
+2025-03-29 21:24:21,924 - WARNING - No data retrieved for exam_id 81.
+2025-03-29 21:24:22,730 - ERROR - Failed to retrieve data for exam_id 82. Status code: 201
+2025-03-29 21:24:22,732 - WARNING - No data retrieved for exam_id 82.
+2025-03-29 21:24:23,676 - ERROR - Failed to retrieve data for exam_id 83. Status code: 201
+2025-03-29 21:24:23,677 - WARNING - No data retrieved for exam_id 83.
+2025-03-29 21:24:24,696 - ERROR - Failed to retrieve data for exam_id 84. Status code: 201
+2025-03-29 21:24:24,698 - WARNING - No data retrieved for exam_id 84.
+2025-03-29 21:24:25,650 - ERROR - Failed to retrieve data for exam_id 85. Status code: 201
+2025-03-29 21:24:25,651 - WARNING - No data retrieved for exam_id 85.
+2025-03-29 21:24:26,523 - ERROR - Failed to retrieve data for exam_id 86. Status code: 201
+2025-03-29 21:24:26,524 - WARNING - No data retrieved for exam_id 86.
+2025-03-29 21:24:27,278 - ERROR - Failed to retrieve data for exam_id 87. Status code: 201
+2025-03-29 21:24:27,280 - WARNING - No data retrieved for exam_id 87.
+2025-03-29 21:24:28,189 - ERROR - Failed to retrieve data for exam_id 88. Status code: 201
+2025-03-29 21:24:28,190 - WARNING - No data retrieved for exam_id 88.
+2025-03-29 21:24:29,122 - ERROR - Failed to retrieve data for exam_id 89. Status code: 201
+2025-03-29 21:24:29,123 - WARNING - No data retrieved for exam_id 89.
+2025-03-29 21:24:29,942 - ERROR - Failed to retrieve data for exam_id 90. Status code: 201
+2025-03-29 21:24:29,942 - WARNING - No data retrieved for exam_id 90.
+2025-03-29 21:24:30,752 - ERROR - Failed to retrieve data for exam_id 91. Status code: 201
+2025-03-29 21:24:30,753 - WARNING - No data retrieved for exam_id 91.
+2025-03-29 21:24:31,579 - ERROR - Failed to retrieve data for exam_id 92. Status code: 201
+2025-03-29 21:24:31,581 - WARNING - No data retrieved for exam_id 92.
+2025-03-29 21:24:32,507 - ERROR - Failed to retrieve data for exam_id 93. Status code: 201
+2025-03-29 21:24:32,510 - WARNING - No data retrieved for exam_id 93.
+2025-03-29 21:24:33,314 - ERROR - Failed to retrieve data for exam_id 94. Status code: 201
+2025-03-29 21:24:33,315 - WARNING - No data retrieved for exam_id 94.
+2025-03-29 21:24:34,130 - ERROR - Failed to retrieve data for exam_id 95. Status code: 201
+2025-03-29 21:24:34,131 - WARNING - No data retrieved for exam_id 95.
+2025-03-29 21:24:34,810 - ERROR - Failed to retrieve data for exam_id 96. Status code: 201
+2025-03-29 21:24:34,811 - WARNING - No data retrieved for exam_id 96.
+2025-03-29 21:24:35,488 - ERROR - Failed to retrieve data for exam_id 97. Status code: 201
+2025-03-29 21:24:35,489 - WARNING - No data retrieved for exam_id 97.
+2025-03-29 21:24:36,182 - ERROR - Failed to retrieve data for exam_id 98. Status code: 201
+2025-03-29 21:24:36,183 - WARNING - No data retrieved for exam_id 98.
+2025-03-29 21:24:36,898 - ERROR - Failed to retrieve data for exam_id 99. Status code: 201
+2025-03-29 21:24:36,899 - WARNING - No data retrieved for exam_id 99.
+2025-03-29 21:24:37,582 - ERROR - Failed to retrieve data for exam_id 100. Status code: 201
+2025-03-29 21:24:37,583 - WARNING - No data retrieved for exam_id 100.
+2025-03-29 21:24:38,084 - INFO - Extraction complete. Successfully processed 34 exams. Failed: 66

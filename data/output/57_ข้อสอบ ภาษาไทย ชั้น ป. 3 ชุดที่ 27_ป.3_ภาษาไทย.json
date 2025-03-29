@@ -1,0 +1,281 @@
+{
+    "metadata": {
+        "exam_id": 57,
+        "exam_name": "ข้อสอบ ภาษาไทย ชั้น ป. 3 ชุดที่ 27",
+        "level_name": "ป.3",
+        "subject_name": "ภาษาไทย",
+        "question_count": "10"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 699,
+            "question_text": "ข้อใดเป็นการใช้ภาษาที่สุภาพ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เขาชอบพูดโกหก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ประวิทย์เป็นคนขี้เกียจ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "วีณาออกลูกเป็นผู้ชาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ขออภัยที่มาช้าเกินไป",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 700,
+            "question_text": " อ่านบทกลอนจากวรรณคดีเรื่องสังข์ทอง\r\nแล้วตอบคำถามข้อ 3-7\r\n\r\n    เมื่อนั้น\r\nเจ้าเงาะแสนกลคนขยัน\r\nพิศโฉมพระธิดาวิลาวัณย์\r\nผุดผาดผิวพรรณดังดวงเดือน\r\nงามละม่อมพร้อมสิ้นทั้งอินทรีย์\r\nนางในธรณีไม่มีเหมือน\r\nแสร้งทำแลเลี่ยงเบี่ยงเบือน\r\nให้ฟั่นเฟือนเตือนจิตคิดปอง\r\nพระจึงตั้งจิตอธิษฐาน\r\nแม้นบุญญาธิการเคยสมสอง\r\nขอให้ทรามสงวนนวลน้อง\r\nเห็นรูปพี่เป็นทองต้องใจรัก\r\n\r\nสังข์ทอง  :   พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย\r\n\r\nเจ้าเงาะมีความคิดเห็นว่าพระธิดาจะเลือกตนเพราะสิ่งใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ความดี",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "รูปทอง",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ความรัก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เทวดาดลใจ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 701,
+            "question_text": "    เมื่อนั้น\r\nเจ้าเงาะแสนกลคนขยัน\r\nพิศโฉมพระธิดาวิลาวัณย์\r\nผุดผาดผิวพรรณดังดวงเดือน\r\nงามละม่อมพร้อมสิ้นทั้งอินทรีย์\r\nนางในธรณีไม่มีเหมือน\r\nแสร้งทำแลเลี่ยงเบี่ยงเบือน\r\nให้ฟั่นเฟือนเตือนจิตคิดปอง\r\nพระจึงตั้งจิตอธิษฐาน\r\nแม้นบุญญาธิการเคยสมสอง\r\nขอให้ทรามสงวนนวลน้อง\r\nเห็นรูปพี่เป็นทองต้องใจรัก\r\n\r\nสังข์ทอง  :   พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย\r\n\r\nจากบทกลอนที่อ่าน เจ้าเงาะเชื่อในเรื่องใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "พลังบุญ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "รูปลักษณ์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แรงอธิษฐาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "การเสี่ยงทาย",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 702,
+            "question_text": "    เมื่อนั้น\r\nเจ้าเงาะแสนกลคนขยัน\r\nพิศโฉมพระธิดาวิลาวัณย์\r\nผุดผาดผิวพรรณดังดวงเดือน\r\nงามละม่อมพร้อมสิ้นทั้งอินทรีย์\r\nนางในธรณีไม่มีเหมือน\r\nแสร้งทำแลเลี่ยงเบี่ยงเบือน\r\nให้ฟั่นเฟือนเตือนจิตคิดปอง\r\nพระจึงตั้งจิตอธิษฐาน\r\nแม้นบุญญาธิการเคยสมสอง\r\nขอให้ทรามสงวนนวลน้อง\r\nเห็นรูปพี่เป็นทองต้องใจรัก\r\n\r\nสังข์ทอง  :   พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย\r\n\r\nคำใดที่ทำให้ทราบว่าพระธิดาสวย",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ผุดผาด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ผิวพรรณ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ละม่อม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "วิลาวัณย์",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 703,
+            "question_text": "    เมื่อนั้น\r\nเจ้าเงาะแสนกลคนขยัน\r\nพิศโฉมพระธิดาวิลาวัณย์\r\nผุดผาดผิวพรรณดังดวงเดือน\r\nงามละม่อมพร้อมสิ้นทั้งอินทรีย์\r\nนางในธรณีไม่มีเหมือน\r\nแสร้งทำแลเลี่ยงเบี่ยงเบือน\r\nให้ฟั่นเฟือนเตือนจิตคิดปอง\r\nพระจึงตั้งจิตอธิษฐาน\r\nแม้นบุญญาธิการเคยสมสอง\r\nขอให้ทรามสงวนนวลน้อง\r\nเห็นรูปพี่เป็นทองต้องใจรัก\r\n\r\nสังข์ทอง  :   พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย\r\n\r\nคำในข้อใดมีความหมายไม่เข้าพวก",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "โฉม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "งาม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "อินทรีย์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "วิลาวัณย์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 704,
+            "question_text": "    เมื่อนั้น\r\nเจ้าเงาะแสนกลคนขยัน\r\nพิศโฉมพระธิดาวิลาวัณย์\r\nผุดผาดผิวพรรณดังดวงเดือน\r\nงามละม่อมพร้อมสิ้นทั้งอินทรีย์\r\nนางในธรณีไม่มีเหมือน\r\nแสร้งทำแลเลี่ยงเบี่ยงเบือน\r\nให้ฟั่นเฟือนเตือนจิตคิดปอง\r\nพระจึงตั้งจิตอธิษฐาน\r\nแม้นบุญญาธิการเคยสมสอง\r\nขอให้ทรามสงวนนวลน้อง\r\nเห็นรูปพี่เป็นทองต้องใจรัก\r\n\r\nสังข์ทอง  :   พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย\r\n\r\nกลอนวรรคใดที่ทำให้เจ้าเงาะตัดสินใจในที่สุดว่าจะตั้งจิตอธิษฐาน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "พิศโฉมพระธิดาวิลาวัณย์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ผุดผาดผิวพรรณดังดวงเดือน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "งามละม่อมพร้อมสิ้นทั้งอินทรีย์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "นางในธรณีไม่มีเหมือน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 705,
+            "question_text": "ข้อใดต่างจากพวก",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "พิศดูหมู่มัจฉา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ปลาสร้อยลอยล่องชล",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "หางไก่ว่ายแหวกว่าย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ไก่ฟ้ามาตัวเดียว",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 706,
+            "question_text": "ข้อใดต่างจากพวก",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ปลากรายว่ายเคียงคู่",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "จำปาหนาแน่นเนื่อง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "พิกุลบุนนาคบาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เต็งแต้วแก้วกาหลง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 707,
+            "question_text": "อ่านบทกลอนจากวรรณคดีเรื่องสังข์ทอง  แล้วตอบคำถามข้อ 9-10\r\n\t\r\n \r\n          เมื่อนั้น               รจนานารีมีศักดิ์\r\nเทพไทอุปถัมป์นำชัก                 นงลักษณ์ดูเงาะเจาะจง\r\nนางเห็นรูปสุวรรณอยู่ชั้นใน          เอารูปเงาะสวมไว้ให้คนหลง\r\nใครใครไม่เห็นรูปทรง                 พระเป็นทองทั้งองค์อร่ามตา\r\nชะรอยบุญเราไซร้จึงได้เห็น          ต่อจะเป็นคู่ครองกระมังหนา\r\nคิดพลางทางเสี่ยงมาลา               แม้ว่าเคยสมภิรมย์รัก\r\nขอให้พวงมาลัยนี้ไปต้อง              เจ้าเงาะรูปทองจงประจักษ์\r\nเสี่ยงแล้วโฉมยงนงลักษณ์            ผินพักตร์ทิ้งพวงมาลัยไป\r\n\r\n       สังข์ทอง  :   พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย\r\n\r\nความในข้อใดมีความเหมาะสมน้อยที่สุดสำหรับบทกลอนที่ได้อ่าน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ทิ้งพวงมาลัย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ปาพวงมาลัย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "โยนพวงมาลัย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เสี่ยงพวงมาลัย",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 708,
+            "question_text": "พระธิดามีชื่อเรียกว่าอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "นารี",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "โฉมยง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "รจนา",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "นงลักษณ์",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

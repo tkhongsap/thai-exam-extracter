@@ -1,0 +1,451 @@
+{
+    "metadata": {
+        "exam_id": 47,
+        "exam_name": "ข้อสอบ ภาษาไทย  ป. 1 ชุดที่ 32",
+        "level_name": "ป.1",
+        "subject_name": "ภาษาไทย",
+        "question_count": "20"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 540,
+            "question_text": "คำว่า รู อ่านอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "อู – รอ = รู",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "รอ – อู = รู",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ลอ – อู = รู",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 541,
+            "question_text": "ข้อใดมีคำที่ประสมสระเสียงสั้นทั้งหมด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เด็ก  ฤทัย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "บอก  เกาะ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เปี๊ยะ  เรือ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 542,
+            "question_text": "อ่านตัวอย่างการพูดแนะนำตัว แล้วตอบคำถามข้อ 3 - 4 \r\n\"สวัสดีฮ่ะ ฉันชื่อ ด.ญ. มาลี นามสกุล ใจดี อายุ 7 ปี ชื่อเล่นว่า มาย ฉันมีพี่น้อง 3 คนค่ะ\"\r\n\r\nเลข 7 และ 3 อ่านอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เจ็ด และ ซาม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เจ๊ด และ สาม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เจ็ด และ สาม",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 543,
+            "question_text": "อ่านตัวอย่างการพูดแนะนำตัว แล้วตอบคำถามข้อ 3 - 4 \r\n\"สวัสดีฮ่ะ ฉันชื่อ ด.ญ. มาลี นามสกุล ใจดี อายุ 7 ปี ชื่อเล่นว่า มาย ฉันมีพี่น้อง 3 คนค่ะ\"\r\n\r\nจากตัวอย่างการพูดแนะนำตัวนี้ เหมาะสมหรือไม่",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ไม่เหมาะสม เพราะเด็กผู้หญิงต้องพูดคำลงท้ายว่า ค่ะ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ไม่เหมาะสม เพราะเด็กผู้หญิงต้องพูดคำลงท้ายว่า ฮ่ะ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เหมาะสม เพราะเด็กผู้หญิงต้องพูดคำลงท้ายว่า ค่ะหรือฮ่ะ ก็ได้",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 544,
+            "question_text": "คำว่า เด็กดี ประสมด้วยสระในข้อใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สระเอ  และ  สระอี",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สระเอะ  และ  สระอี",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สระแอะ  และ  สระอี",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 545,
+            "question_text": "ขอ+อัว+ดอ  เขียนว่าอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ขัด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ขอด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ขวด",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 546,
+            "question_text": "อ่านข้อความที่กำหนดให้ แล้วตอบคำถามข้อ 7 – 10 \r\n\"อ๊อดอาศัยอยู่ในแม่น้ำมีต้นแพงพวย ผักบุ้งและสัตว์น้ำอาศัยอยู่มากมาย  ลุงมาเดินถือแหแล้วเหวี่ยงลงไปในแม่น้ำ อ๊อดตกใจรีบว่ายเข้าไปซุกในกอหญ้า ลุงมาไปแล้วอ๊อดจึงออกมา\"\r\n\r\nอ๊อดเป็นใคร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "คน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สัตว์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "พืช",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 547,
+            "question_text": "อ่านข้อความที่กำหนดให้ แล้วตอบคำถามข้อ 7 – 10 \r\n\"อ๊อดอาศัยอยู่ในแม่น้ำมีต้นแพงพวย ผักบุ้งและสัตว์น้ำอาศัยอยู่มากมาย  ลุงมาเดินถือแหแล้วเหวี่ยงลงไปในแม่น้ำ อ๊อดตกใจรีบว่ายเข้าไปซุกในกอหญ้า ลุงมาไปแล้วอ๊อดจึงออกมา\"\r\n\r\nอ๊อดตกใจอะไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เสียงเดินของลุงมา",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เสียงปลาในน้ำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เสียงแหของลุงมา",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 548,
+            "question_text": "อ่านข้อความที่กำหนดให้ แล้วตอบคำถามข้อ 7 – 10 \r\n\"อ๊อดอาศัยอยู่ในแม่น้ำมีต้นแพงพวย ผักบุ้งและสัตว์น้ำอาศัยอยู่มากมาย  ลุงมาเดินถือแหแล้วเหวี่ยงลงไปในแม่น้ำ อ๊อดตกใจรีบว่ายเข้าไปซุกในกอหญ้า ลุงมาไปแล้วอ๊อดจึงออกมา\"\r\n\r\nลุงมาเหวี่ยงแหลงไปในแม่น้ำทำไม",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "จับอ๊อด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "จับปลา",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เก็บผักบุ้ง",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 549,
+            "question_text": "อ่านข้อความที่กำหนดให้ แล้วตอบคำถามข้อ 7 – 10 \r\n\"อ๊อดอาศัยอยู่ในแม่น้ำมีต้นแพงพวย ผักบุ้งและสัตว์น้ำอาศัยอยู่มากมาย  ลุงมาเดินถือแหแล้วเหวี่ยงลงไปในแม่น้ำ อ๊อดตกใจรีบว่ายเข้าไปซุกในกอหญ้า ลุงมาไปแล้วอ๊อดจึงออกมา\"\r\n\r\nจากข้อความ คำที่มีตัวสะกดอยู่ใน แม่กง มีกี่คำ (ไม่นับคำซ้ำ)",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "4 คำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "5 คำ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "6 คำ",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 550,
+            "question_text": "ข้อใดมีคำที่ประสมสระ โ–ะ ทั้งหมด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ตกโต๊ะ",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "โก๊ะแกละ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ยิงนก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 551,
+            "question_text": "ใครปฏิบัติตนในการฟังไม่ถูกต้อง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ปอไม่ชวนเพื่อนคุยขณะฟังบรรยาย",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "แนนชวนน้อยกินขนมขณะฟังการบรรยาย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "แตงปรบมือหลังจากผู้บรรยายพูดจบ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 13,
+            "question_id": 552,
+            "question_text": "ข้อใดมีสระเหมือนคำว่า รวบรัด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "อ้อมค้อม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กัดฟัน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "บัวผัน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 14,
+            "question_id": 553,
+            "question_text": "อ่านบทร้อยกรอง แล้วตอบคำถามข้อ 14-17\r\nแมวเหมียวแยกเขี้ยวยิงฟัน\r\nแมวเอ๋ย  แมวเหมียว\r\nรูปร่างประเปรียวเป็นนักหนา\r\nร้องเรียกเหมียวเหมียวเดี๋ยวก็มา\r\nเคล้าแข้งเคล้าขาน่าเอ็นดู\r\nรู้จักเอารักเข้าต่อตั้ง\r\nค่ำค่ำซ้ำนั่งระวังหนู\r\nควรนับว่ามันกตัญญู\r\nพอดูอย่างไว้ใส่ใจเอย\r\n     ผู้แต่ง นายทัด เปรียญ\r\n\r\nบทร้อยกรองนี้เป็นบทร้อยกรองประเภทใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "กลอนสี่สุภาพ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กลอนดอกสร้อยสุภาษิต",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "กาพย์ยานี 11",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 15,
+            "question_id": 554,
+            "question_text": "อ่านบทร้อยกรอง แล้วตอบคำถามข้อ 14-17\r\nแมวเหมียวแยกเขี้ยวยิงฟัน\r\nแมวเอ๋ย  แมวเหมียว\r\nรูปร่างประเปรียวเป็นนักหนา\r\nร้องเรียกเหมียวเหมียวเดี๋ยวก็มา\r\nเคล้าแข้งเคล้าขาน่าเอ็นดู\r\nรู้จักเอารักเข้าต่อตั้ง\r\nค่ำค่ำซ้ำนั่งระวังหนู\r\nควรนับว่ามันกตัญญู\r\nพอดูอย่างไว้ใส่ใจเอย\r\n     ผู้แต่ง นายทัด เปรียญ\r\n\r\nคำว่า ร้องเรียก ประสมด้วยสระใดบ้าง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "สระอัว และ สระเอ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สระออ  และ สระเอีย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สระเอาะ  และ สระเอือะ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 16,
+            "question_id": 555,
+            "question_text": "อ่านบทร้อยกรอง แล้วตอบคำถามข้อ 14-17\r\nแมวเหมียวแยกเขี้ยวยิงฟัน\r\nแมวเอ๋ย  แมวเหมียว\r\nรูปร่างประเปรียวเป็นนักหนา\r\nร้องเรียกเหมียวเหมียวเดี๋ยวก็มา\r\nเคล้าแข้งเคล้าขาน่าเอ็นดู\r\nรู้จักเอารักเข้าต่อตั้ง\r\nค่ำค่ำซ้ำนั่งระวังหนู\r\nควรนับว่ามันกตัญญู\r\nพอดูอย่างไว้ใส่ใจเอย\r\n     ผู้แต่ง นายทัด เปรียญ\r\n\r\nจากบทร้อยกรอง ผู้แต่งมีจุดประสงค์ใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ตำหนิ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ตักเตือน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "สั่งสอน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 17,
+            "question_id": 556,
+            "question_text": "อ่านบทร้อยกรอง แล้วตอบคำถามข้อ 14-17\r\nแมวเหมียวแยกเขี้ยวยิงฟัน\r\nแมวเอ๋ย  แมวเหมียว\r\nรูปร่างประเปรียวเป็นนักหนา\r\nร้องเรียกเหมียวเหมียวเดี๋ยวก็มา\r\nเคล้าแข้งเคล้าขาน่าเอ็นดู\r\nรู้จักเอารักเข้าต่อตั้ง\r\nค่ำค่ำซ้ำนั่งระวังหนู\r\nควรนับว่ามันกตัญญู\r\nพอดูอย่างไว้ใส่ใจเอย\r\n     ผู้แต่ง นายทัด เปรียญ\r\n\r\nข้อใดเป็นใจความสำคัญของบทร้อยกรองบทนี้",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แมวน่ารักช่างประจบ และจับหนูได้เก่ง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "คนช่างประจบเจ้านาย เหมือนแมวที่ชอบประจบเจ้าของ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ให้คนกตัญญูต่อผู้มีพระคุณเหมือนแมวที่คอยจับหนูให้เจ้าของ",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 18,
+            "question_id": 557,
+            "question_text": "คำใดมีเสียงวรรณยุกต์ตรงกับคำว่า  คาถา",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แมวเหมียว",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "คำตอบ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ประโยค",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 19,
+            "question_id": 558,
+            "question_text": "ข้อใดคือคำถามของคำตอบ  “ฉันจะไปตลาด”\r\n",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "เธอจะไปไหน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เธอจะทำอะไร",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เธอจะไปกับใคร",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 20,
+            "question_id": 559,
+            "question_text": "ทุกทุกคนช่วยกันทำงาน  เขียนอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ทุกๆ คนช่วยกันทำงาน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ทุกคนๆ ช่วยกันทำงาน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ทุกคนช่วยกันทำงานๆ",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

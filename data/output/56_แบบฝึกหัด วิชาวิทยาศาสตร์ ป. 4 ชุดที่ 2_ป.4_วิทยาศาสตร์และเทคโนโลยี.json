@@ -1,0 +1,335 @@
+{
+    "metadata": {
+        "exam_id": 56,
+        "exam_name": "แบบฝึกหัด วิชาวิทยาศาสตร์ ป. 4 ชุดที่ 2",
+        "level_name": "ป.4",
+        "subject_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "question_count": "12"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "question_id": 687,
+            "question_text": "ใบของพืชเปรียบเหมือนกับส่วนใดของคน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "แขน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "จมูก",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ลำตัว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ขา",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "question_id": 688,
+            "question_text": "ข้อใดเป็นวัตถุดิบในการสังเคราะห์แสง",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ออกซิเจน  คลอโรฟิลล์",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "น้ำ  ออกซิเจน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "น้ำ  คาร์บอนไดออกไซด์",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "น้ำ  คลอโรฟิลล์",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 3,
+            "question_id": 689,
+            "question_text": "ใบของพืชชนิดใดสะสมอาหารและน้ำได้",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ใบตำลึง",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ใบตะบองเพชร",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ใบมะขาม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ใบตะไคร้",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 4,
+            "question_id": 690,
+            "question_text": "พืชมีดอกส่วนใหญ่แพร่พันธุ์โดยสิ่งใด",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ใบ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "เมล็ด",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ดอก",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ผล",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 5,
+            "question_id": 691,
+            "question_text": "มะขาม  1  ผล  มีเมล็ดที่งอกเป็นต้นใหม่ได้กี่ต้น",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "1  ต้น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "2  ต้น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "5  ต้น",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ไม่แน่นอน",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_number": 6,
+            "question_id": 692,
+            "question_text": "ภายในเมล็ดพืชจะมีสิ่งใดอยู่ภายใน",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ใบ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ต้นอ่อน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ผล",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ราก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 7,
+            "question_id": 693,
+            "question_text": "ถ้าพืชขาดธาตุอาหารในดินเราควรทำอย่างไร",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "รดน้ำให้ชุ่ม",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ใส่ปุ๋ย",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "กำจัดวัชพืช",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ปลูกพืชคลุมดิน",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 8,
+            "question_id": 694,
+            "question_text": "หลังจากปฏิสนธิแล้ว ส่วนใดของดอกจะร่วงหลุดไป",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "รังไข่",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "กลีบดอก",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ออวุล",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "เซลล์ไข่",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 9,
+            "question_id": 695,
+            "question_text": "ข้อใดเป็นศัตรูพืช",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "หนอน",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ไส้เดือน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ผีเสื้อ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "กิ้งกือ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 10,
+            "question_id": 696,
+            "question_text": "สัตว์ชนิดใดมีความแตกต่างจากสัตว์ปีกอื่น ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "นกแก้ว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ค้างคาว",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "นกกางเขน",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "นกเค้าแมว",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 11,
+            "question_id": 697,
+            "question_text": "ข้อใดไม่ใช่สัตว์ครึ่งบกครึ่งน้ำ",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "หอยแมลงภู่",
+                    "is_correct": true
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "ปาด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "เขียด",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "คางคก",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_number": 12,
+            "question_id": 698,
+            "question_text": "ข้อใดไม่ใช่สัตว์ที่เลี้ยงลูกด้วยนม",
+            "choices": [
+                {
+                    "choice_number": 1,
+                    "choice_text": "ค้างคาว",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 2,
+                    "choice_text": "สุนัข",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 3,
+                    "choice_text": "ปลาวาฬ",
+                    "is_correct": false
+                },
+                {
+                    "choice_number": 4,
+                    "choice_text": "ตะพาบน้ำ",
+                    "is_correct": true
+                }
+            ]
+        }
+    ]
+}

@@ -141,8 +141,8 @@ def main():
         Path(output_dir).mkdir(parents=True, exist_ok=True)
         
         # Define the range of exam IDs to process
-        start_id = 12585
-        end_id = 12586  # Adjust the range as needed
+        start_id = 1
+        end_id = 100  # Adjust the range as needed
         
         logger.info(f"Starting extraction for exam IDs {start_id} to {end_id}")
         
