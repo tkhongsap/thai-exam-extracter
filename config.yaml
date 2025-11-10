@@ -1,0 +1,33 @@
+# Thai Exam Extractor Configuration
+
+# API Configuration
+api:
+  base_url: "https://www.trueplookpanya.com/webservice/api/examination/formdoexamination"
+  timeout: 30
+  max_retries: 3
+  retry_delay: 2  # seconds
+
+# Download Configuration
+download:
+  concurrent_limit: 5  # Max concurrent downloads
+  rate_limit_delay: 0.5  # Delay between requests in seconds
+  resume: true  # Skip already downloaded files
+
+# Output Configuration
+output:
+  directory: "data/output"
+  formats:
+    - json
+    # - csv
+    # - sqlite
+
+# Extraction Range
+extraction:
+  start_id: 14000
+  end_id: 20000
+
+# Logging Configuration
+logging:
+  level: INFO  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: "exam_extraction.log"
+  console: true
