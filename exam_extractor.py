@@ -35,13 +35,40 @@ from tqdm.asyncio import tqdm_asyncio
 from tqdm import tqdm
 
 
+# Custom Exceptions
+class ExamExtractorError(Exception):
+    """Base exception for exam extractor errors."""
+    pass
+
+
+class APIError(ExamExtractorError):
+    """Exception raised for API-related errors."""
+    pass
+
+
+class ValidationError(ExamExtractorError):
+    """Exception raised for data validation errors."""
+    pass
+
+
+class ExportError(ExamExtractorError):
+    """Exception raised for export/save errors."""
+    pass
+
+
+class ConfigurationError(ExamExtractorError):
+    """Exception raised for configuration errors."""
+    pass
+
+
 class Config:
     """Configuration manager for the exam extractor."""
 
     def __init__(self, config_file: str = "config.yaml"):
-        """Initialize configuration from YAML file."""
+        """Initialize configuration from YAML file and environment variables."""
         self.config_file = config_file
         self.config = self._load_config()
+        self._apply_env_overrides()
 
     def _load_config(self) -> Dict[str, Any]:
         """Load configuration from YAML file."""
@@ -51,6 +78,32 @@ class Config:
         except FileNotFoundError:
             logging.warning(f"Config file {self.config_file} not found. Using defaults.")
             return self._default_config()
+
+    def _apply_env_overrides(self) -> None:
+        """Apply environment variable overrides to configuration."""
+        # API configuration
+        if api_url := os.getenv('EXAM_API_BASE_URL'):
+            self.config['api']['base_url'] = api_url
+        if api_timeout := os.getenv('EXAM_API_TIMEOUT'):
+            self.config['api']['timeout'] = int(api_timeout)
+        if api_retries := os.getenv('EXAM_API_MAX_RETRIES'):
+            self.config['api']['max_retries'] = int(api_retries)
+
+        # Download configuration
+        if concurrent_limit := os.getenv('EXAM_CONCURRENT_LIMIT'):
+            self.config['download']['concurrent_limit'] = int(concurrent_limit)
+        if rate_limit := os.getenv('EXAM_RATE_LIMIT_DELAY'):
+            self.config['download']['rate_limit_delay'] = float(rate_limit)
+
+        # Output configuration
+        if output_dir := os.getenv('EXAM_OUTPUT_DIR'):
+            self.config['output']['directory'] = output_dir
+
+        # Extraction range
+        if start_id := os.getenv('EXAM_START_ID'):
+            self.config['extraction']['start_id'] = int(start_id)
+        if end_id := os.getenv('EXAM_END_ID'):
+            self.config['extraction']['end_id'] = int(end_id)
 
     def _default_config(self) -> Dict[str, Any]:
         """Return default configuration."""
@@ -285,11 +338,11 @@ class ExamAPIClient:
         try:
             # Extract metadata
             metadata = {
-                "exam_id": data['data']['exam']['exam_id'],
+                "exam_id": int(data['data']['exam']['exam_id']),
                 "exam_name": data['data']['exam']['exam_name'],
                 "level_name": data['data']['exam']['level_name'],
                 "subject_name": data['data']['exam']['subject_name'],
-                "question_count": data['data']['exam']['question_count']
+                "question_count": int(data['data']['exam']['question_count'])
             }
 
             # Extract questions and choices
@@ -297,7 +350,7 @@ class ExamAPIClient:
             for i, question_data in enumerate(data['data']['formdo'], 1):
                 question_detail = {
                     "question_number": i,
-                    "question_id": question_data['question_id'],
+                    "question_id": int(question_data['question_id']),
                     "question_text": question_data['question_detail'],
                     "choices": []
                 }
